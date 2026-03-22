@@ -1,5 +1,8 @@
 ﻿namespace apbd_cw3_git_s34457.Services;
 
+using apbd_cw3_git_s34457.Models;
+using apbd_cw3_git_s34457.Enums;
+
 public class RentalService
 {
     private List<User> users = new();
